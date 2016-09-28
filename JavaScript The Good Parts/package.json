@@ -1,0 +1,9 @@
+{
+  "name": "java-script-the-good-parts",
+  "version": "0.0.0",
+  "description": "JavaScript The Good Parts",
+  "main": "app.js",
+  "author": {
+    "name": "Brandon"
+  }
+}
