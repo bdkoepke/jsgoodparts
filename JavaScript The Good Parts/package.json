@@ -5,5 +5,8 @@
   "main": "app.js",
   "author": {
     "name": "Brandon"
+  },
+  "dependencies": {
+    "mocha": "^3.1.0"
   }
 }
